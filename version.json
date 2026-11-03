@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "release_date": "2026-11-03",
+  "notes": "Начальный релиз: OCR распознавание, перевод в один клик, локальные модели CTranslate2, словарь и компактные настройки.",
+  "download_url": "https://github.com/nexxxyz/Just-Text-Translate/releases/latest/download/Setup.exe"
+}
